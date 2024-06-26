@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">realesrgan</string>
+    <string name="perform_super_resolution">Perform Super Resolution</string>
+</resources>
